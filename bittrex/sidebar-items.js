@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["OrderBookType","Enumeration representing the type of an order."]],"mod":[["error","Errors for Bittrex API."],["types","Types for Bittrex API."]],"struct":[["Client","Bittrex API client."]]});
